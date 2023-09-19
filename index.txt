@@ -1,5 +1,5 @@
 vCard - Personal Portfolio
-
+new edition
 # sidebar
 
 alt = Richard hanrick
